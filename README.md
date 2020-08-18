@@ -1,4 +1,4 @@
-# Deteccao_e_Classificacao_de_Bots_Utilizando_Redes_Neurais_Artificiais_e_Analise_de_Sentimentos 
+# Bot Detection and Classification Using Artificial Neural Networks and Sentiment Analysis
 
 This project has:
 
